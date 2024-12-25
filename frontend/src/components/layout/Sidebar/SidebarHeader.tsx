@@ -15,7 +15,8 @@ export const SidebarHeader = () => {
                 align='center'
                 pt='1'
                 height='48px'>
-                <Text as='span' size='6' className='cal-sans pl-1'>raven</Text>
+                {/* <Text as='span' size='6' className='cal-sans pl-1'>WTF</Text> */}
+                <img width='150px' height='auto' src='/assets/raven/WaseelaChat.png'></img>
                 <Flex align='center' gap='3' className='pr-1 sm:pr-0'>
                     <SearchButton />
                     <ColorModeToggleButton />

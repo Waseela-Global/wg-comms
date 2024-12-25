@@ -25,7 +25,7 @@ const UserList = () => {
             <SettingsContentContainer>
                 <SettingsPageHeader
                     title='Users'
-                    description='Manage users added to Raven.'
+                    description='Manage users added to Waseela Comms.'
                     actions={canAddRavenUsers ? <Button onClick={on}>
                         Add
                     </Button> : null}

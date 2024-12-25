@@ -60,7 +60,7 @@ const FrappeHR = () => {
                     <SettingsContentContainer>
                         <SettingsPageHeader
                             title={__('HR')}
-                            description={__("Connect your HR system to Raven to sync employee data and send notifications.")}
+                            description={__("Connect your HR system to Waseela Comms to sync employee data and send notifications.")}
                             actions={<Button type='submit' disabled={updatingDoc}>
                                 {updatingDoc && <Loader />}
                                 {updatingDoc ? __("Saving") : __("Save")}

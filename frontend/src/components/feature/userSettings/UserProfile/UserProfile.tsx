@@ -70,7 +70,7 @@ const UserProfile = () => {
                     <SettingsContentContainer>
                         <SettingsPageHeader
                             title={__('Profile')}
-                            description={__('Manage your Raven profile')}
+                            description={__('Manage your Waseela Comms profile')}
                             actions={<Button type='submit' disabled={updatingDoc}>
                                 {updatingDoc && <Loader />}
                                 {updatingDoc ? __("Saving") : __("Save")}
