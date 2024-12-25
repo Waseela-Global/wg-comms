@@ -3,7 +3,7 @@
   <img src="raven_logo.png" alt="Raven logo" height="100" />
      </a>
 
-   <h3 align="center">Waseela Comms</h3>
+   <h3 align="center">Waseela Comms for Waseela OS</h3>
   <p align="center">Simple, open source team messaging platform
      <br />
     <br />
